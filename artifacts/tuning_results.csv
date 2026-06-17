@@ -1,0 +1,4 @@
+model,best_cv_f1,best_params
+Logistic Regression,0.47953657707267316,"{'model__solver': 'liblinear', 'model__C': 0.1}"
+Random Forest,0.6493918186495626,"{'model__n_estimators': 80, 'model__min_samples_split': 2, 'model__min_samples_leaf': 2, 'model__max_features': None, 'model__max_depth': 10}"
+Voting Classifier,0.599935166189878,"{'model__weights': (2, 1, 1), 'model__lr__C': 0.5, 'model__dt__min_samples_leaf': 1, 'model__dt__max_depth': 6}"
