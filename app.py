@@ -592,7 +592,7 @@ model, metadata = load_artifacts()
 st.markdown(
     """
     <div class="hero">
-        <h1>🔎 Cek Risiko Churn Pelanggan</h1>
+        <h1>Cek Risiko Churn Pelanggan</h1>
         
     </div>
     """,
